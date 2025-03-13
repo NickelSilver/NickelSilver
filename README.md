@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 Change theme color
 Refactor core logic
+Improve logging
