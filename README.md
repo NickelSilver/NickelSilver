@@ -28,3 +28,4 @@ Tweak margin and padding
 Improve logging
 Clean up codebase
 Refactor core logic
+Improve logging
