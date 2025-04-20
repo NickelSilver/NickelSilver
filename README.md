@@ -26,3 +26,4 @@ Fix broken link
 Polish UI layout
 Tweak margin and padding
 Improve logging
+Clean up codebase
