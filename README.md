@@ -18,3 +18,4 @@ Change theme color
 Refactor core logic
 Improve logging
 Update API endpoint
+Optimize loop
